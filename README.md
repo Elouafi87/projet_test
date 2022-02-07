@@ -17,7 +17,7 @@ TEST  **GIT**
 Test *GIT*
 
 ---
-'''html
+```html
 
 <html> 
 <p> tes tde paragraphe en HTML </p> 
